@@ -1,4 +1,4 @@
-const GAS_URL = "https://script.google.com/macros/s/AKfycbyhttteJ-FbgoIU0MnJAKDmG00xYHZ_R3llToH0BB3eFUmmaf_-muS8dMIHZ2XY5xw-/exec";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbx_hLCpgHbloB3Sh6abgWnQ9vOpK5EXMiNDJRERL_G-FkK3qqlhOreKhOgeM1IzCGv1/exec";
 
 let currentQuestion = 0;
 let answers = [];
